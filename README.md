@@ -1,3 +1,3 @@
 # BattleFieldAR
 
-https://alex-nguyen.github.io/BattleFieldAR/home.html
+https://gsca-cpca.github.io/PalmitoAR/home.html
