@@ -1,7 +1,7 @@
 # PalmitoAR Link and QR code
 Link: https://git.io/JJnMT
 
-QR Code: https://git.io/JJnIa
+QR Code: https://git.io/JJnM3
 
 # The Map of PalmitoAR
 https://git.io/JJnIr
