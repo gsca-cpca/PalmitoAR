@@ -1,5 +1,5 @@
 # PalmitoAR
-
+https://qrgo.page.link/6yS2u or 
 https://gsca-cpca.github.io/PalmitoAR/home.html
 
 
