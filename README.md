@@ -1,7 +1,6 @@
-# PalmitoAR
-https://qrgo.page.link/6yS2u or 
-https://gsca-cpca.github.io/PalmitoAR/home.html
-
+# PalmitoAR Link and QR code
+https://qrgo.page.link/6yS2u or https://gsca-cpca.github.io/PalmitoAR/home.html
+https://github.com/gsca-cpca/PalmitoAR/blob/master/QR-PalmitoAR.png
 
 # The Map for PalmitoAR
 https://github.com/gsca-cpca/PalmitoAR/blob/master/printedmap.pdf
