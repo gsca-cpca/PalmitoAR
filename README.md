@@ -1,5 +1,5 @@
 # PalmitoAR Link and QR code
-Link: https://git.io/JJnIw
+Link: https://git.io/JJnMT
 
 QR Code: https://git.io/JJnIa
 
