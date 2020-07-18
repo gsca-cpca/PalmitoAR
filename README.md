@@ -3,7 +3,7 @@ https://qrgo.page.link/6yS2u or
 https://gsca-cpca.github.io/PalmitoAR/home.html
 
 
-# Map for PalmitoAR
+# The Map for PalmitoAR
 https://github.com/gsca-cpca/PalmitoAR/blob/master/printedmap.pdf
 
 # Research Paper
