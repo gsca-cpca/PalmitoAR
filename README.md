@@ -1,10 +1,10 @@
 # PalmitoAR Link and QR code
-Link: https://qrgo.page.link/6yS2u or https://gsca-cpca.github.io/PalmitoAR/home.html
+Link: https://git.io/JJnIw
 
-QR Code: https://github.com/gsca-cpca/PalmitoAR/blob/master/QR-PalmitoAR.png
+QR Code: https://git.io/JJnIa
 
 # The Map of PalmitoAR
-https://github.com/gsca-cpca/PalmitoAR/blob/master/printedmap.pdf
+https://git.io/JJnIr
 
 # Research Paper
 
